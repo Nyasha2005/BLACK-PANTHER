@@ -1,6 +1,6 @@
 {
-  "name": "BLACK PANTHER MD@9.8.9",
-  "description": "I am Ibrahim-Md Whatsapp Chuddy Buddy built in NodeJs to make experience better\n\t if Any Problem : https://www.youtube.com/@ibrahimmdgpt",
+  "name": "NY.BMW.WT MD@9.8.9",
+  "description": "I am BMW Whatsapp Chuddy Buddy built in NodeJs to make experience better\n\t if Any Problem : https://www.youtube.com/@ibrahimmdgpt",
   "logo": "https://telegra.ph/file/fdeb9bdbfae04a6b62dd4.jpg",
   "keywords": ["whatsappbot", " PANTHER", " PANTHER Md bot", " PANTHER", " PANTHERMdWhatsaooBot", " PANTHERWaBot"," PANTHERMD"," PANTHER Md Whatsapp Bot","multi device"],
   "success_url": "/ PANTHER/",
@@ -9,7 +9,7 @@
   "env": {
     "OWNER_NAME": {
       "description": "Name of Bot Owner",    
-      "value": "𝗠𝗥 𝗜𝗕𝗥𝗔𝗛𝗜𝗠",
+      "value": "NY.BMW.WT",
       "required" :true
     },   
      
@@ -27,7 +27,7 @@
     "BOT_NAME": {
       "description": " NAME FOR BOT",
       "required" :false,    
-      "value": "𝗜𝗕𝗥𝗔𝗛𝗜𝗠-𝗪𝗔𝗕𝗢𝗧"
+      "value": "BMW"
     }, 
     "IMAGE": {
       "description": "Image for bot",
@@ -100,11 +100,11 @@
     },
     "OWNER_NUMBER": {
       "description": "The phone numbers of the users who you want to be admin for the bot (should be in international format without + and multiple numbers must be separated by a comma \",\")",
-      "value": "254710772666"
+      "value": "263718228938"
     },
     "SESSION_ID": {
       "description": "put your SESSION_ID here.",
-      "value": ""
+      "value": "PANTHER;;;eyJub2lzZUtleSI6eyJwcml2YXRlIjp7InR5cGUiOiJCdWZmZXIiLCJkYXRhIjoiNkhFRU1acHBSQzJpczJxYnU0Umg1dTE0bFBKK2s1OHhvYjI2RlliM1FITT0ifSwicHVibGljIjp7InR5cGUiOiJCdWZmZXIiLCJkYXRhIjoicUhyL1pDN29GV3NpcXNJV2YvamozbFZjRUVnelhPUTFiRlhoWU5CdlBYND0ifX0sInBhaXJpbmdFcGhlbWVyYWxLZXlQYWlyIjp7InByaXZhdGUiOnsidHlwZSI6IkJ1ZmZlciIsImRhdGEiOiJVSUQyWHJBSzFHUHF0TG9TeGJiSWdFSTI0MHYzM0F0RUZZZitVNFZNdVhrPSJ9LCJwdWJsaWMiOnsidHlwZSI6IkJ1ZmZlciIsImRhdGEiOiJ4TlZNYWltbkxGbDFkOEdLYmFReWh4a1ZtQ3czZTBqejB1UDVwMEJocmhRPSJ9fSwic2lnbmVkSWRlbnRpdHlLZXkiOnsicHJpdmF0ZSI6eyJ0eXBlIjoiQnVmZmVyIiwiZGF0YSI6ImNNK0JpSjJ6VDQrRmx2V2tsTnQwclBMQkpqb1ZoRUN3Y3FXQml5QUZNbW89In0sInB1YmxpYyI6eyJ0eXBlIjoiQnVmZmVyIiwiZGF0YSI6ImZzTTBMS2NQM2lMdytNRjZsOXhsM2VpaWhQZFZYb0hUbDVjbXNoeW5DaUk9In19LCJzaWduZWRQcmVLZXkiOnsia2V5UGFpciI6eyJwcml2YXRlIjp7InR5cGUiOiJCdWZmZXIiLCJkYXRhIjoiU0pIREM3VFRXQmNhY05rMXlZcXhBMHNzMVlreVlYSEx5K3RCNUozVHltND0ifSwicHVibGljIjp7InR5cGUiOiJCdWZmZXIiLCJkYXRhIjoiaDZOa2NEREVzVktiSkNuZUh4dURmOUhsSE1mZUp4S1RtdEgyWkJYWE9Scz0ifX0sInNpZ25hdHVyZSI6eyJ0eXBlIjoiQnVmZmVyIiwiZGF0YSI6IjdhRTh3TGZrOERVY25UZFY0cEVRQTFNVnlqaUNXZW0vM0puRUJ3WkJhcHZqcDEvOEVpNFoybDk0dHE0UnVvQWhvSEZxNnpFZ09RZG1vWGJtZnljYkFBPT0ifSwia2V5SWQiOjF9LCJyZWdpc3RyYXRpb25JZCI6NzMsImFkdlNlY3JldEtleSI6InFmUEdXSDZ4Z0Izd2lZdUNRZUJpMWdwK3RvT0dZTGZld3I2enZBSVhtUnM9IiwicHJvY2Vzc2VkSGlzdG9yeU1lc3NhZ2VzIjpbXSwibmV4dFByZUtleUlkIjozMiwiZmlyc3RVbnVwbG9hZGVkUHJlS2V5SWQiOjMyLCJhY2NvdW50U3luY0NvdW50ZXIiOjAsImFjY291bnRTZXR0aW5ncyI6eyJ1bmFyY2hpdmVDaGF0cyI6ZmFsc2V9LCJkZXZpY2VJZCI6IkQzd1VkVFlyVGlpUFRuSkg0dF9PRHciLCJwaG9uZUlkIjoiZDJiNGIyZDItZjQ3Mi00MTgwLTgwNjQtYzhhNzI2OGMyYzljIiwiaWRlbnRpdHlJZCI6eyJ0eXBlIjoiQnVmZmVyIiwiZGF0YSI6ImRNaGdXRGllN2pvR1o3UDl0RENHa21NUFJocz0ifSwicmVnaXN0ZXJlZCI6dHJ1ZSwiYmFja3VwVG9rZW4iOnsidHlwZSI6IkJ1ZmZlciIsImRhdGEiOiJnTHRUVGtXTDB5bUVQWG1yNkYxWGRZeGZBaFk9In0sInJlZ2lzdHJhdGlvbiI6e30sInBhaXJpbmdDb2RlIjoiWjFZREJOODkiLCJtZSI6eyJpZCI6IjI2MzcxODIyODkzODoyMkBzLndoYXRzYXBwLm5ldCJ9LCJhY2NvdW50Ijp7ImRldGFpbHMiOiJDTHJGd0lNR0VJZmYwckVHR0FVZ0FDZ0EiLCJhY2NvdW50U2lnbmF0dXJlS2V5IjoiRngzUy9DeGlxM29tS0xLUHR4bFZXb0RGYk56Zm9CQklId0tWYi9rNkVDaz0iLCJhY2NvdW50U2lnbmF0dXJlIjoiTTc5V2RPZ01GeGdTVzAxZitFbGZHUFdnVHlzQ3Ixa1pkemxuMllPUEpnNlhOL0hGRm9LYVhYQ1NLT3lBdFNiRXVlRmEraU9PdGU0YVJmcVMzQ1IrQ0E9PSIsImRldmljZVNpZ25hdHVyZSI6IlkwV3FlenJaZFBZT2R0L2UxYTBvQnRjdTZKUXlTNWNuNUJ4TmhpQnhmL25aSVNtM0dDOHQ1VHNZUnZ2bi93dzlDWnc1NTZFL2hTdDdQS24wL3A4UkFnPT0ifSwic2lnbmFsSWRlbnRpdGllcyI6W3siaWRlbnRpZmllciI6eyJuYW1lIjoiMjYzNzE4MjI4OTM4OjIyQHMud2hhdHNhcHAubmV0IiwiZGV2aWNlSWQiOjB9LCJpZGVudGlmaWVyS2V5Ijp7InR5cGUiOiJCdWZmZXIiLCJkYXRhIjoiQlJjZDB2d3NZcXQ2SmlpeWo3Y1pWVnFBeFd6YzM2QVFTQjhDbFcvNU9oQXAifX1dLCJwbGF0Zm9ybSI6ImFuZHJvaWQiLCJsYXN0QWNjb3VudFN5bmNUaW1lc3RhbXAiOjE3MTQ3Mjg4NTJ9"
   
     },
     "OPENAI_API_KEY": {
@@ -128,12 +128,12 @@
     },
     "PACK_NAME": {
       "description": "Put Sticker Pack_Name.",
-      "value": "𝗜𝗕𝗥𝗔𝗛𝗜𝗠-𝗧𝗘𝗖𝗛",
+      "value": "WT",
       "required": false 
     },
     "PACK_AUTHER": {
       "description": "Put Sticker Author_Name.",
-      "value": "𝗜𝗕𝗥𝗔𝗛𝗜𝗠-𝗧𝗘𝗖𝗛",
+      "value": "WEEP TECH",
       "required": false 
     }
   }, 
